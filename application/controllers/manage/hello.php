@@ -44,7 +44,7 @@ class Hello extends CI_Controller {
 		
 	}
 
-	public function _display()
+	public function display()
 	{
 		//echo "<br>"."SE2";
 		$data['student'] = array("614259034","thanakit","tinop","SE");
